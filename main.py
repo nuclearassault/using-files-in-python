@@ -11,3 +11,4 @@ country_count = len(countries)
 
 # Output the number of countries
 print(f"There are {country_count} countries listed.")
+print(countries[6])
