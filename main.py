@@ -12,3 +12,5 @@ country_count = len(countries)
 # Output the number of countries
 print(f"There are {country_count} countries listed.")
 print(countries[6])
+print(countries[76])
+print(len([w for w in input().split() if len(w) > 5]))
